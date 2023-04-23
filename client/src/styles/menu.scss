@@ -57,7 +57,7 @@
                width: 100%;
                border-radius: 15px;
                cursor: pointer;
-
+               transition: background-color 0.4s;
                &:hover {
                     background-color: $red-dark;
                }
