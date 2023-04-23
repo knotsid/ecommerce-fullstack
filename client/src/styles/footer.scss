@@ -12,12 +12,13 @@ footer {
      h2 {
           color: $red;
           font-family: fantasy;
-          font-weight: 400;
+          font-weight: 150;
           font-size: 2rem;
      }
 
      p, strong {
           margin: 1rem;
+          font-weight: 400;
      }
 
      aside{
