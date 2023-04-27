@@ -49,7 +49,6 @@ const Cart = () => {
 					<div>
 						<h4>Total</h4>
 						<p>INR {2000 + 200 * 0.18 + 200}</p>
-						
 					</div>
 					<Link to="/shipping">Checkout</Link>
 				</article>
