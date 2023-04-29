@@ -21,13 +21,13 @@ const MyOrders = () => {
 					<tbody>
 						{arr.map((i) => (
 							<tr key={i}>
-								<td>#312312312</td>
+								<td>#qwqw</td>
 								<td>Processing</td>
 								<td>23</td>
 								<td>INR{32323}</td>
 								<td>Online</td>
 								<td>
-									<Link to={`/order/${"312312312"}`}>
+									<Link to={`/order/${"qwqw"}`}>
 										<AiOutlineEye />
 									</Link>
 								</td>
