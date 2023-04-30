@@ -16,7 +16,7 @@ const Founder = () => {
 	return (
 		<section className="founder">
 			<motion.div {...options}>
-				<img src={me} alt="Founder" height={200} width={330} />
+				<img src={me} alt="Founder" height={200} width={200} />
 				<h3>Siddhartha Kumar</h3>
 				<p>
 					Hey, Everyone I am Siddhartha, the founder of Ridiculous Burger{" "}
