@@ -35,6 +35,7 @@ import './styles/orderdetails.scss'
 import './styles/dashboard.scss'
 import './styles/about.scss'
 import './styles/notfound.scss'
+import './styles/loader.scss'
 
 
 
