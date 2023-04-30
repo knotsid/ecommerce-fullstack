@@ -16,9 +16,8 @@ const Box = ({ title, value }) => (
 );
 
 const Dashboard = () => {
-	
 	const data = {
-		labels:["Preparing", "Shipped", "Delivered"],
+		labels: ["Preparing", "Shipped", "Delivered"],
 		datasets: [
 			{
 				label: "# of orders",
